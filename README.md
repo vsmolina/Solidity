@@ -7,7 +7,7 @@ in which the contract was deployed with
 
 This image demonstrates the starting amounts for the three addresses to which the deposit was made
 
-![deposit](./Resources/amount.png)
+![deposit](./Resources/amount_sent.png)
 
 This shows the amount of ether being distributed
 
